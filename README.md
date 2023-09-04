@@ -11,7 +11,7 @@
 </ul>
 
   <h1>Technology Stack</h1>
-  <div style="display:'flex', gap:10"> 
+  <div style="display:'flex', gap:20"> 
       <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
   <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/>
@@ -20,7 +20,10 @@
   <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"/>
 
   </div>
-
+<style>
+  li{
+    list-decoration:none;
+</style>
 <!--
 **AlexaBailey/AlexaBailey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
