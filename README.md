@@ -11,7 +11,7 @@
 </ul>
 
   <h1>Technology Stack</h1>
-  <div style="display:'flex', gap:20"> 
+  <div style="display:'flex'; gap:20"> 
       <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
   <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/>
