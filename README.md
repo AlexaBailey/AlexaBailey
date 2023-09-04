@@ -2,7 +2,7 @@
 <img src="https://github.com/AlexaBailey/AlexaBailey/assets/93386868/184bcf59-be16-4a1a-8f30-39daad0e93f5"/>
 <br/>
 <ul>
-  <li style="list-style-type:'none'">- 🔭 I’m currently working on designing and coding our local cafe website</li>
+  <li style="list-style-type:none">- 🔭 I’m currently working on designing and coding our local cafe website</li>
 <li>- 🌱 I’m currently learning Gulp, Solid, NextJS</li>
 <li>- 👯 I’m looking to collaborate on new projects with like-minded geeks</li>
 <li>- 🤔 I’m looking for help with anything I have competence in</li>
