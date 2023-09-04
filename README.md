@@ -1,6 +1,7 @@
 ### Hi, I'm Alexandra, a coding enthusist and an ardous learner👋
 <img src="https://github.com/AlexaBailey/AlexaBailey/assets/93386868/184bcf59-be16-4a1a-8f30-39daad0e93f5"/>
 <br/>
+<br/>
 <ul>
   <li> 🔭 I’m currently working on designing and coding our local cafe website</li>
 <li> 🌱 I’m currently learning Gulp, Solid, NextJS</li>
