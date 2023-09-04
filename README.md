@@ -1,7 +1,7 @@
 ### Hi, I'm Alexandra, a coding enthusist and an ardous learner👋
 <img src="https://github.com/AlexaBailey/AlexaBailey/assets/93386868/184bcf59-be16-4a1a-8f30-39daad0e93f5"/>
 <br/>
-<ul>
+<ul style="list-decoration:none">
   <li>- 🔭 I’m currently working on designing and coding our local cafe website</li>
 <li>- 🌱 I’m currently learning Gulp, Solid, NextJS</li>
 <li>- 👯 I’m looking to collaborate on new projects with like-minded geeks</li>
@@ -20,10 +20,7 @@
   <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"/>
 
   </div>
-<style>
-  li{
-    list-decoration:none;
-</style>
+
 <!--
 **AlexaBailey/AlexaBailey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
